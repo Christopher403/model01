@@ -13,6 +13,6 @@ public class UserControoller {
     @RequestMapping("/hello")
     public String sayHi(ModelAndView mav){
 
-        return  "Hello World!"+ cupSize;
+        return  "Hello World!test"+ cupSize;
     }
 }
