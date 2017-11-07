@@ -1,7 +1,7 @@
 server:
   port: 8089
   context-path: /better
-cupSize: B
+cupSize: F
 
 # REDIS (RedisProperties)
 
